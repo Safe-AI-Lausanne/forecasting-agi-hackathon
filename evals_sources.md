@@ -10,6 +10,9 @@
 
 - Beaver 7B model, SafeDPO method, see Appendix : https://arxiv.org/pdf/2505.20065
 
+## Finetuning
+
+- Jailbreak attaacks, evaluate on 7B and slightly 13B model: https://arxiv.org/pdf/2406.18510
 
 
 
