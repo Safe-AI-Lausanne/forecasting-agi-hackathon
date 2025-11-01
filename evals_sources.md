@@ -9,3 +9,10 @@
 ## DPO
 
 - Beaver 7B model, SafeDPO method, see Appendix : https://arxiv.org/pdf/2505.20065
+
+
+
+
+## Misc
+
+- Wildguard model, this has some table with models evaluated : https://proceedings.neurips.cc/paper_files/paper/2024/file/0f69b4b96a46f284b726fbd70f74fb3b-Paper-Datasets_and_Benchmarks_Track.pdf
