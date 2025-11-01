@@ -9,7 +9,7 @@
 ## DPO
 
 - Beaver 7B model, SafeDPO method, see Appendix : https://arxiv.org/pdf/2505.20065
-- Tulu, multiple sizes, ToxiGen dataset : https://arxiv.org/pdf/2311.10702
+- Tulu 2, multiple sizes (7-70B), ToxiGen + TruthFulQA datasets : https://arxiv.org/pdf/2311.10702
 
 ## Finetuning
 
