@@ -23,6 +23,11 @@
 ## Mixture of techniques:
 
 
+## CoT 
+
+- 4-8B models, WildJailbreak, Harmbench, https://openreview.net/pdf/0fe7b2217515a82bd2db60ead4448f0c3ce60996.pdf
+
+
 ## Misc
 
 - Wildguard model, this has some table with models evaluated : https://proceedings.neurips.cc/paper_files/paper/2024/file/0f69b4b96a46f284b726fbd70f74fb3b-Paper-Datasets_and_Benchmarks_Track.pdf
