@@ -5,3 +5,7 @@
 
 - Benchmark TrustLM, on 7B LLama : https://arxiv.org/html/2502.15861v1
 - HarmBench, multiple small scale models : https://arxiv.org/html/2503.17365v1
+
+## DPO
+
+- Beaver 7B model, SafeDPO method, see Appendix : https://arxiv.org/pdf/2505.20065
