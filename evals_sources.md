@@ -9,10 +9,13 @@
 ## DPO
 
 - Beaver 7B model, SafeDPO method, see Appendix : https://arxiv.org/pdf/2505.20065
+- Tulu, multiple sizes, ToxiGen dataset : https://arxiv.org/pdf/2311.10702
 
 ## Finetuning
 
-- Jailbreak attaacks, evaluate on 7B and slightly 13B model: https://arxiv.org/pdf/2406.18510
+- Jailbreak attaacks, evaluate on 7B and slightly 13B model, also a lot of tables with evaluations: https://arxiv.org/pdf/2406.18510
+
+- 
 
 
 
