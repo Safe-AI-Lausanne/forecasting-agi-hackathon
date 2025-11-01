@@ -13,7 +13,8 @@
 - Tulu 3, (SFT + DPO) multiple sizes (7-70B), HarmBench, XSTest, WildGuardTest, Jailbreaktrigger, DoAnythingNow, WildjailbreakTest : https://arxiv.org/pdf/2411.15124
 - Olmo 2, multiple sizes (1-32B), Same as Tulu 3 : https://arxiv.org/pdf/2501.00656
 
-## Finetuning
+
+## Supervised Finetuning
 
 - Jailbreak attaacks, evaluate on 7B and slightly 13B model, also a lot of tables with evaluations: https://arxiv.org/pdf/2406.18510
 - Tulu 3, (SFT + DPO) multiple sizes (7-70B), HarmBench, XSTest, WildGuardTest, Jailbreaktrigger, DoAnythingNow, WildjailbreakTest : https://arxiv.org/pdf/2411.15124
