@@ -26,3 +26,10 @@
 ## Misc
 
 - Wildguard model, this has some table with models evaluated : https://proceedings.neurips.cc/paper_files/paper/2024/file/0f69b4b96a46f284b726fbd70f74fb3b-Paper-Datasets_and_Benchmarks_Track.pdf
+- WMDP benchmark:
+  - https://arxiv.org/pdf/2403.03218
+  - https://proceedings.neurips.cc/paper_files/paper/2024/file/d6359156e0e30b1caa116a4306b12688-Paper-Conference.pdf
+  - https://arxiv.org/pdf/2508.06595v3
+  - https://arxiv.org/pdf/2410.07163
+  - (code but no results https://github.com/locuslab/open-unlearning/tree/main)
+
