@@ -1,5 +1,7 @@
 # forecasting-agi-hackathon
 
+https://docs.google.com/spreadsheets/d/1uh_TqBLcSDB2_8Eyrww6Wl-4ZK3heV5mUBWqW2OZuRc/edit?usp=sharing
+
 # Sources
 
 - [Safetywashing: Do AI Safety Benchmarks
