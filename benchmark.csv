@@ -1,0 +1,130 @@
+Dataset Name,URL
+MLCommons AI Safety Benchmark (AILuminate v1.0),https://mlcommons.org/benchmarks/ai-safety/
+AgentHarm,https://huggingface.co/datasets/ai-safety-institute/AgentHarm
+SafetyBench,https://huggingface.co/datasets/thu-coai/SafetyBench
+DecodingTrust,https://huggingface.co/blog/leaderboard-decodingtrust
+SimpleSafetyTests,https://huggingface.co/datasets/Bertievidgen/SimpleSafetyTests
+XSTest,https://arxiv.org/abs/2308.01263
+HarmBench,https://www.harmbench.org/
+HELM Safety,https://crfm.stanford.edu/2024/11/08/helm-safety.html
+Anthropic HH-RLHF (Red Teaming),https://huggingface.co/datasets/Anthropic/hh-rlhf
+JailbreakBench (JBB-Behaviors),https://jailbreakbench.github.io/
+Aurora-M Redteam,https://huggingface.co/datasets/aurora-m/redteam
+TUD-ARTS LLM Red Teaming Prompts,https://github.com/TUD-ARTS-2023/LLM-red-teaming-prompts
+Generative AI Red-Teaming (DEFCON),https://huggingface.co/datasets/jinnovation/generative-ai-red-teaming
+Anthropic Model-Written Evals,https://huggingface.co/datasets/Anthropic/model-written-evals
+RealToxicityPrompts,https://huggingface.co/datasets/allenai/real-toxicity-prompts
+ToxiGen,https://arxiv.org/abs/2203.09509
+ToxicChat,https://huggingface.co/datasets/lmsys/toxic-chat
+Jigsaw Toxic Comment Classification,https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/
+DeToxy,https://github.com/Sreyan88/Toxicity-Detection-in-Spoken-Utterances
+Nvidia Aegis AI Content Safety Dataset v1.0,https://huggingface.co/datasets/nvidia/Aegis-AI-Content-Safety-Dataset-1.0
+Nvidia Aegis AI Content Safety Dataset v2.0,https://huggingface.co/datasets/nvidia/Aegis-AI-Content-Safety-Dataset-2.0
+TechHazardQA (HarmEval),https://huggingface.co/datasets/SoftMINER-Group/TechHazardQA
+GuardrailsAI Content-Moderation,https://huggingface.co/datasets/GuardrailsAI/content-moderation
+BBQ (Bias Benchmark for Question Answering),https://github.com/nyu-mll/BBQ
+BOLD (Bias in Open-Ended Language Generation),https://github.com/amazon-science/bold
+StereoSet,https://stereoset.mit.edu
+CrowS-Pairs,https://github.com/nyu-mll/crows-pairs
+WinoBias,https://github.com/uclanlp/corefBias
+FairPrism,https://paperswithcode.com/dataset/fairprism
+TruthfulQA,https://huggingface.co/datasets/truthful_qa
+HaluEval,https://github.com/RUCAIBox/HaluEval
+FaithDial,https://huggingface.co/datasets/McGill-NLP/FaithDial
+True-False,https://huggingface.co/datasets/pminervini/true-false
+SelfCheckGPT,https://huggingface.co/datasets/potsawee/wiki_bio_gpt3_hallucination
+FActScore,https://github.com/shmsw25/FActScore
+Factcheck-Bench,https://github.com/yuxiaw/Factcheck-GPT
+FEVER (Fact Extraction and VERification),https://fever.ai/dataset/fever.html
+FEVEROUS,https://fever.ai
+Bias in Bios,https://huggingface.co/datasets/LabHC/bias_in_bios
+WinoGender,https://uclanlp.github.io/corefBias/overview
+Debiased Dataset,https://huggingface.co/datasets/newsmediabias/debiased_dataset
+HolisticBias,https://github.com/facebookresearch/ResponsibleNLP
+RedditBias,https://github.com/umanlp/RedditBias
+GAP (Gender-Ambiguous Pronouns),https://github.com/google-research-datasets/gap-coreference
+Equity Evaluation Corpus,http://saifmohammad.com/WebPages/Biases-SA.html
+HONEST (Hurtful Sentence Completion),https://github.com/MilaNLProc/honest
+Fair-LLM-Benchmark Repository,https://github.com/i-gallegos/Fair-LLM-Benchmark
+AdvBench,https://arxiv.org/abs/2307.15043
+Do-Not-Answer (DoNotAnswer),https://paperswithcode.com/dataset/do-not-answer
+HEx-PHI,https://huggingface.co/datasets/LLM-Tuning-Safety/HEx-PHI
+BeaverTails,https://paperswithcode.com/dataset/beavertails
+DiaSafety,https://aclanthology.org/2022.acl-long.417/
+Safety-Prompts (Chinese LLMs),https://huggingface.co/datasets/thu-coai/Safety-Prompts
+VLBiasBench,https://arxiv.org/abs/2406.14194
+MACHIAVELLI,https://paperswithcode.com/dataset/machiavelli
+RuLES,https://safetyprompts.com
+CURATe,https://arxiv.org/abs/2410.21159
+RobustBench,https://robustbench.github.io/
+AutoAttack,https://github.com/fra31/auto-attack
+CIFAR-10-C,https://zenodo.org/record/2535967
+CIFAR-100-C,https://zenodo.org/record/3555552
+ImageNet-C,https://zenodo.org/record/2235448
+ImageNet-P,https://zenodo.org/record/3565846
+ImageNet-3DCC,https://robustbench.github.io/
+ImageNet-A (Natural Adversarial),https://github.com/hendrycks/natural-adv-examples
+ImageNet-O (Out-of-Distribution),https://github.com/hendrycks/natural-adv-examples
+ImageNet-R (Renditions),https://github.com/hendrycks/imagenet-r/
+ImageNet-Sketch,https://github.com/HaohanWang/ImageNet-Sketch
+ImageNet-Cartoon,https://zenodo.org/records/6801109
+ImageNet-Drawing,https://zenodo.org/records/6801109
+ImageNet-V2,https://github.com/modestyachts/ImageNetV2
+ImageNet-OOD,https://github.com/princetonvisualai/imagenetood
+ObjectNet,https://objectnet.dev/
+APRICOT (Adversarial Patches),https://apricot.mitre.org/
+AdvT-shirt-1K,https://github.com/Wwangb/AdvT-shirt-1K
+ImageNet-Patch,https://github.com/pralab/ImageNet-Patch
+WILDS (In-the-Wild Distribution Shifts),https://wilds.stanford.edu/
+Wild-Time,https://wild-time.github.io/
+Shift Happens Benchmark,https://shift-happens-benchmark.github.io/
+AdvGLUE (Adversarial GLUE),https://adversarialglue.github.io/
+SQuAD Adversarial,https://huggingface.co/datasets/stanfordnlp/squad_adversarial
+Zéroe,https://aclanthology.org/2020.aacl-main.79/
+TextAttack Benchmark,https://github.com/QData/TextAttack
+Adversarial Nibbler,https://github.com/google-research-datasets/adversarial-nibbler
+MIB (Mechanistic Interpretability Benchmark),https://huggingface.co/mib-bench
+TransformerLens Evaluation Datasets,https://github.com/TransformerLensOrg/TransformerLens
+FIND (Function INterpretation and Description),https://arxiv.org/abs/2309.03886
+Anthropic Transformer Circuits,https://transformer-circuits.pub/
+OpenAI Automated Interpretability,https://github.com/openai/automated-interpretability
+ROAR (Remove and Retrain),https://github.com/google-research/google-research/tree/master/interpretability_benchmark
+Benchmarking Interpretability Tools (MIT),https://benchmarking-interpretability.csail.mit.edu/
+TCAV (Testing with Concept Activation Vectors),https://github.com/tensorflow/tcav
+XAIB (XAI Benchmark),https://oxid15.github.io/xai-benchmark/
+Ferret (Interpretability Benchmarking),https://github.com/g8a9/ferret
+MechIR (Mechanistic IR),https://arxiv.org/html/2501.10165
+TrustLLM,https://huggingface.co/datasets/TrustLLM/TrustLLM-dataset
+WMDP (Weapons of Mass Destruction Proxy),https://www.wmdp.ai/
+AI Safety Index,https://futureoflife.org/document/fli-ai-safety-index-2024/
+SafeBench (Center for AI Safety),https://www.mlsafety.org/safebench
+OpenOOD,https://github.com/Jingkang50/OpenOOD
+WildJailbreak,https://huggingface.co/datasets/allenai/wildjailbreak
+StrongREJECT,https://bair.berkeley.edu/blog/2024/08/28/strong-reject/
+PandaBench,https://huggingface.co/datasets/Beijing-AISI/panda-bench
+MM-SafetyBench,https://arxiv.org/abs/2311.17600
+MSTS (Multimodal Safety Test Suite),https://huggingface.co/datasets/felfri/MSTS
+JailBreakV-28K,https://arxiv.org/abs/2404.03027
+CROSS (Cultural Safety),https://arxiv.org/abs/2505.14972
+PrivacyGLUE,https://www.mdpi.com/2076-3417/13/6/3701
+Privacy Evaluation Benchmarks for NLP,https://arxiv.org/abs/2409.15868
+LLM-Uncertainty-Bench,https://github.com/smartyfh/LLM-Uncertainty-Bench
+XSum,https://huggingface.co/datasets/EdinburghNLP/xsum
+CNN/DailyMail,https://huggingface.co/datasets/cnn_dailymail
+RACE (ReAding Comprehension),https://huggingface.co/datasets/EleutherAI/race
+SQuADv2,https://huggingface.co/datasets/squad_v2
+MemoTrap,https://huggingface.co/datasets/pminervini/inverse-scaling/viewer/memo-trap
+IFEval (Instruction Following Evaluation),https://huggingface.co/datasets/wis-k/instruction-following-eval
+HotpotQA,https://hotpotqa.github.io
+OpenDialKG,https://github.com/facebookresearch/opendialkg
+FactKB,https://github.com/BunsenFeng/FactKB
+OpenFactCheck Benchmarks,https://openfactcheck.com
+Hallucinations Leaderboard,https://huggingface.co/spaces/hallucinations-leaderboard/leaderboard
+SafetyPrompts.com Collection,https://safetyprompts.com/
+Papers with Code - Adversarial Robustness,https://paperswithcode.com/task/adversarial-robustness
+Papers with Code - OOD Detection,https://paperswithcode.com/task/ood-detection
+Papers with Code - Interpretability,https://paperswithcode.com/task/interpretable-machine-learning
+Awesome-Jailbreak-on-LLMs,https://github.com/yueliu1999/Awesome-Jailbreak-on-LLMs
+Awesome-MLLM-Safety,https://github.com/isXinLiu/Awesome-MLLM-Safety
+Awesome-Out-Of-Distribution-Detection,https://github.com/huytransformer/Awesome-Out-Of-Distribution-Detection
+Awesome-Uncertainty-DeepLearning,https://github.com/ENSTA-U2IS-AI/awesome-uncertainty-deeplearning
