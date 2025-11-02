@@ -1,0 +1,190 @@
+Source paper,Technique,Model,Scale,Benchmark,Benchmark perf
+https://arxiv.org/pdf/2403.03218,Baseline,ZEPHYR-7B,7B, BIO,0.637
+https://arxiv.org/pdf/2403.03218,Baseline,ZEPHYR-7B,7B,CHEM,0.458
+https://arxiv.org/pdf/2403.03218,Baseline,ZEPHYR-7B,7B,MMLU,0.581
+https://arxiv.org/pdf/2403.03218,Baseline,ZEPHYR-7B,7B,Cyber,0.44
+https://arxiv.org/pdf/2403.03218,LLMU,ZEPHYR-7B,7B,BIO,0.595
+https://arxiv.org/pdf/2403.03218,LLMU,ZEPHYR-7B,7B,CHEM,0.414
+https://arxiv.org/pdf/2403.03218,LLMU,ZEPHYR-7B,7B,MMLU,0.447
+https://arxiv.org/pdf/2403.03218,LLMU,ZEPHYR-7B,7B,CYBER,0.395
+https://arxiv.org/pdf/2403.03218,SCRUB,ZEPHYR-7B,7B,BIO,0.438
+https://arxiv.org/pdf/2403.03218,SCRUB,ZEPHYR-7B,7B,CHEM,0.404
+https://arxiv.org/pdf/2403.03218,SCRUB,ZEPHYR-7B,7B,MMLU,0.512
+https://arxiv.org/pdf/2403.03218,SCRUB,ZEPHYR-7B,7B,CYBER,0.393
+https://arxiv.org/pdf/2403.03218,SSD,ZEPHYR-7B,7B,BIO,0.502
+https://arxiv.org/pdf/2403.03218,SSD,ZEPHYR-7B,7B,CHEM,0.338
+https://arxiv.org/pdf/2403.03218,SSD,ZEPHYR-7B,7B,MMLU,0.407
+https://arxiv.org/pdf/2403.03218,SSD,ZEPHYR-7B,7B,CYBER,0.35
+https://arxiv.org/pdf/2403.03218,RMU ,ZEPHYR-7B,7B,BIO,0.312
+https://arxiv.org/pdf/2403.03218,RMU ,ZEPHYR-7B,7B,CHEM,0.458
+https://arxiv.org/pdf/2403.03218,RMU ,ZEPHYR-7B,7B,MMLU,0.571
+https://arxiv.org/pdf/2403.03218,RMU ,ZEPHYR-7B,7B,CYBER,0.282
+https://arxiv.org/pdf/2403.03218,Baseline,Y1-34B,34B,BIO,0.753
+https://arxiv.org/pdf/2403.03218,Baseline,Y1-34B,34B,CHEM,0.586
+https://arxiv.org/pdf/2403.03218,Baseline,Y1-34B,34B,MMLU,0.726
+https://arxiv.org/pdf/2403.03218,Baseline,Y1-34B,34B,CYBER,0.497
+https://arxiv.org/pdf/2403.03218,RMU ,Y1-34B,34B,BIO,0.307
+https://arxiv.org/pdf/2403.03218,RMU ,Y1-34B,34B,CHEM,0.554
+https://arxiv.org/pdf/2403.03218,RMU ,Y1-34B,34B,MMLU,0.706
+https://arxiv.org/pdf/2403.03218,RMU ,Y1-34B,34B,CYBER,0.29
+https://arxiv.org/pdf/2403.03218,Baseline,MIXTRAL-8X7B,47B,BIO,0.748
+https://arxiv.org/pdf/2403.03218,Baseline,MIXTRAL-8X7B,47B,CHEM,0.552
+https://arxiv.org/pdf/2403.03218,Baseline,MIXTRAL-8X7B,47B,MMLU,0.682
+https://arxiv.org/pdf/2403.03218,Baseline,MIXTRAL-8X7B,47B,Cyber,0.52
+https://arxiv.org/pdf/2403.03218,RMU ,MIXTRAL-8X7B,47B,BIO,0.34
+https://arxiv.org/pdf/2403.03218,RMU ,MIXTRAL-8X7B,47B,CHEM,0.547
+https://arxiv.org/pdf/2403.03218,RMU ,MIXTRAL-8X7B,47B,MMLU,0.671
+https://arxiv.org/pdf/2403.03218,RMU ,MIXTRAL-8X7B,47B,Cyber,0.308
+https://proceedings.neurips.cc/paper_files/paper/2024/file/d6359156e0e30b1caa116a4306b12688-Paper-Conference.pdf,Baseline,Zephyr-7B,7B,Bio,0.642
+https://proceedings.neurips.cc/paper_files/paper/2024/file/d6359156e0e30b1caa116a4306b12688-Paper-Conference.pdf,Baseline,Zephyr-7B,7B,Chem,0.483
+https://proceedings.neurips.cc/paper_files/paper/2024/file/d6359156e0e30b1caa116a4306b12688-Paper-Conference.pdf,Baseline,Zephyr-7B,7B,Cyber,0.431
+https://proceedings.neurips.cc/paper_files/paper/2024/file/d6359156e0e30b1caa116a4306b12688-Paper-Conference.pdf,Baseline,Zephyr-7B,7B,MMLU,0.589
+https://proceedings.neurips.cc/paper_files/paper/2024/file/d6359156e0e30b1caa116a4306b12688-Paper-Conference.pdf,Prompting,Zephyr-7B,7B,Bio,0.632
+https://proceedings.neurips.cc/paper_files/paper/2024/file/d6359156e0e30b1caa116a4306b12688-Paper-Conference.pdf,Prompting,Zephyr-7B,7B,Chem,0.436
+https://proceedings.neurips.cc/paper_files/paper/2024/file/d6359156e0e30b1caa116a4306b12688-Paper-Conference.pdf,Prompting,Zephyr-7B,7B,Cyber,0.44
+https://proceedings.neurips.cc/paper_files/paper/2024/file/d6359156e0e30b1caa116a4306b12688-Paper-Conference.pdf,Prompting,Zephyr-7B,7B,MMLU,0.578
+https://proceedings.neurips.cc/paper_files/paper/2024/file/d6359156e0e30b1caa116a4306b12688-Paper-Conference.pdf,LLMU,Zephyr-7B,7B,Bio,0.595
+https://proceedings.neurips.cc/paper_files/paper/2024/file/d6359156e0e30b1caa116a4306b12688-Paper-Conference.pdf,LLMU,Zephyr-7B,7B,Chem,0.414
+https://proceedings.neurips.cc/paper_files/paper/2024/file/d6359156e0e30b1caa116a4306b12688-Paper-Conference.pdf,LLMU,Zephyr-7B,7B,Cyber,0.395
+https://proceedings.neurips.cc/paper_files/paper/2024/file/d6359156e0e30b1caa116a4306b12688-Paper-Conference.pdf,LLMU,Zephyr-7B,7B,MMLU,0.447
+https://proceedings.neurips.cc/paper_files/paper/2024/file/d6359156e0e30b1caa116a4306b12688-Paper-Conference.pdf,SCRUB,Zephyr-7B,7B,Bio,0.438
+https://proceedings.neurips.cc/paper_files/paper/2024/file/d6359156e0e30b1caa116a4306b12688-Paper-Conference.pdf,SCRUB,Zephyr-7B,7B,Chem,0.404
+https://proceedings.neurips.cc/paper_files/paper/2024/file/d6359156e0e30b1caa116a4306b12688-Paper-Conference.pdf,SCRUB,Zephyr-7B,7B,Cyber,0.393
+https://proceedings.neurips.cc/paper_files/paper/2024/file/d6359156e0e30b1caa116a4306b12688-Paper-Conference.pdf,SCRUB,Zephyr-7B,7B,MMLU,0.512
+https://proceedings.neurips.cc/paper_files/paper/2024/file/d6359156e0e30b1caa116a4306b12688-Paper-Conference.pdf,SSD,Zephyr-7B,7B,Bio,0.502
+https://proceedings.neurips.cc/paper_files/paper/2024/file/d6359156e0e30b1caa116a4306b12688-Paper-Conference.pdf,SSD,Zephyr-7B,7B,Chem,0.338
+https://proceedings.neurips.cc/paper_files/paper/2024/file/d6359156e0e30b1caa116a4306b12688-Paper-Conference.pdf,SSD,Zephyr-7B,7B,Cyber,0.35
+https://proceedings.neurips.cc/paper_files/paper/2024/file/d6359156e0e30b1caa116a4306b12688-Paper-Conference.pdf,SSD,Zephyr-7B,7B,MMLU,0.407
+https://proceedings.neurips.cc/paper_files/paper/2024/file/d6359156e0e30b1caa116a4306b12688-Paper-Conference.pdf,RMU,Zephyr-7B,7B,Bio,0.297
+https://proceedings.neurips.cc/paper_files/paper/2024/file/d6359156e0e30b1caa116a4306b12688-Paper-Conference.pdf,RMU,Zephyr-7B,7B,Chem,0.471
+https://proceedings.neurips.cc/paper_files/paper/2024/file/d6359156e0e30b1caa116a4306b12688-Paper-Conference.pdf,RMU,Zephyr-7B,7B,Cyber,0.281
+https://proceedings.neurips.cc/paper_files/paper/2024/file/d6359156e0e30b1caa116a4306b12688-Paper-Conference.pdf,RMU,Zephyr-7B,7B,MMLU,0.575
+https://proceedings.neurips.cc/paper_files/paper/2024/file/d6359156e0e30b1caa116a4306b12688-Paper-Conference.pdf,ECO ,Zephyr-7B,7B,Bio,0.247
+https://proceedings.neurips.cc/paper_files/paper/2024/file/d6359156e0e30b1caa116a4306b12688-Paper-Conference.pdf,ECO ,Zephyr-7B,7B,Chem,0.265
+https://proceedings.neurips.cc/paper_files/paper/2024/file/d6359156e0e30b1caa116a4306b12688-Paper-Conference.pdf,ECO ,Zephyr-7B,7B,Cyber,0.244
+https://proceedings.neurips.cc/paper_files/paper/2024/file/d6359156e0e30b1caa116a4306b12688-Paper-Conference.pdf,ECO ,Zephyr-7B,7B,MMLU,0.589
+https://proceedings.neurips.cc/paper_files/paper/2024/file/d6359156e0e30b1caa116a4306b12688-Paper-Conference.pdf,Baseline,Yi-34B-Chat,34B,Bio,0.762
+https://proceedings.neurips.cc/paper_files/paper/2024/file/d6359156e0e30b1caa116a4306b12688-Paper-Conference.pdf,Baseline,Yi-34B-Chat,34B,Chem,0.569
+https://proceedings.neurips.cc/paper_files/paper/2024/file/d6359156e0e30b1caa116a4306b12688-Paper-Conference.pdf,Baseline,Yi-34B-Chat,34B,Cyber,0.569
+https://proceedings.neurips.cc/paper_files/paper/2024/file/d6359156e0e30b1caa116a4306b12688-Paper-Conference.pdf,Baseline,Yi-34B-Chat,34B,MMLU,0.728
+https://proceedings.neurips.cc/paper_files/paper/2024/file/d6359156e0e30b1caa116a4306b12688-Paper-Conference.pdf,Prompting,Yi-34B-Chat,34B,Bio,0.43
+https://proceedings.neurips.cc/paper_files/paper/2024/file/d6359156e0e30b1caa116a4306b12688-Paper-Conference.pdf,Prompting,Yi-34B-Chat,34B,Chem,0.36
+https://proceedings.neurips.cc/paper_files/paper/2024/file/d6359156e0e30b1caa116a4306b12688-Paper-Conference.pdf,Prompting,Yi-34B-Chat,34B,Cyber,0.472
+https://proceedings.neurips.cc/paper_files/paper/2024/file/d6359156e0e30b1caa116a4306b12688-Paper-Conference.pdf,Prompting,Yi-34B-Chat,34B,MMLU,0.61
+https://proceedings.neurips.cc/paper_files/paper/2024/file/d6359156e0e30b1caa116a4306b12688-Paper-Conference.pdf,RMU,Yi-34B-Chat,34B,Bio,0.31
+https://proceedings.neurips.cc/paper_files/paper/2024/file/d6359156e0e30b1caa116a4306b12688-Paper-Conference.pdf,RMU,Yi-34B-Chat,34B,Chem,0.547
+https://proceedings.neurips.cc/paper_files/paper/2024/file/d6359156e0e30b1caa116a4306b12688-Paper-Conference.pdf,RMU,Yi-34B-Chat,34B,Cyber,0.279
+https://proceedings.neurips.cc/paper_files/paper/2024/file/d6359156e0e30b1caa116a4306b12688-Paper-Conference.pdf,RMU,Yi-34B-Chat,34B,MMLU,0.71
+https://proceedings.neurips.cc/paper_files/paper/2024/file/d6359156e0e30b1caa116a4306b12688-Paper-Conference.pdf,ECO ,Yi-34B-Chat,34B,Bio,0.259
+https://proceedings.neurips.cc/paper_files/paper/2024/file/d6359156e0e30b1caa116a4306b12688-Paper-Conference.pdf,ECO ,Yi-34B-Chat,34B,Chem,0.24
+https://proceedings.neurips.cc/paper_files/paper/2024/file/d6359156e0e30b1caa116a4306b12688-Paper-Conference.pdf,ECO ,Yi-34B-Chat,34B,Cyber,0.253
+https://proceedings.neurips.cc/paper_files/paper/2024/file/d6359156e0e30b1caa116a4306b12688-Paper-Conference.pdf,ECO ,Yi-34B-Chat,34B,MMLU,0.728
+https://proceedings.neurips.cc/paper_files/paper/2024/file/d6359156e0e30b1caa116a4306b12688-Paper-Conference.pdf,Baseline,Mixtral-8x7B-Instruct,47B,Bio,0.716
+https://proceedings.neurips.cc/paper_files/paper/2024/file/d6359156e0e30b1caa116a4306b12688-Paper-Conference.pdf,Baseline,Mixtral-8x7B-Instruct,47B,Chem,0.534
+https://proceedings.neurips.cc/paper_files/paper/2024/file/d6359156e0e30b1caa116a4306b12688-Paper-Conference.pdf,Baseline,Mixtral-8x7B-Instruct,47B,Cyber,0.519
+https://proceedings.neurips.cc/paper_files/paper/2024/file/d6359156e0e30b1caa116a4306b12688-Paper-Conference.pdf,Baseline,Mixtral-8x7B-Instruct,47B,MMLU,0.677
+https://proceedings.neurips.cc/paper_files/paper/2024/file/d6359156e0e30b1caa116a4306b12688-Paper-Conference.pdf,Prompting,Mixtral-8x7B-Instruct,47B,Bio,0.464
+https://proceedings.neurips.cc/paper_files/paper/2024/file/d6359156e0e30b1caa116a4306b12688-Paper-Conference.pdf,Prompting,Mixtral-8x7B-Instruct,47B,Chem,0.37
+https://proceedings.neurips.cc/paper_files/paper/2024/file/d6359156e0e30b1caa116a4306b12688-Paper-Conference.pdf,Prompting,Mixtral-8x7B-Instruct,47B,Cyber,0.477
+https://proceedings.neurips.cc/paper_files/paper/2024/file/d6359156e0e30b1caa116a4306b12688-Paper-Conference.pdf,Prompting,Mixtral-8x7B-Instruct,47B,MMLU,0.619
+https://proceedings.neurips.cc/paper_files/paper/2024/file/d6359156e0e30b1caa116a4306b12688-Paper-Conference.pdf,RMU,Mixtral-8x7B-Instruct,47B,Bio,0.32
+https://proceedings.neurips.cc/paper_files/paper/2024/file/d6359156e0e30b1caa116a4306b12688-Paper-Conference.pdf,RMU,Mixtral-8x7B-Instruct,47B,Chem,0.527
+https://proceedings.neurips.cc/paper_files/paper/2024/file/d6359156e0e30b1caa116a4306b12688-Paper-Conference.pdf,RMU,Mixtral-8x7B-Instruct,47B,Cyber,0.314
+https://proceedings.neurips.cc/paper_files/paper/2024/file/d6359156e0e30b1caa116a4306b12688-Paper-Conference.pdf,RMU,Mixtral-8x7B-Instruct,47B,MMLU,0.661
+https://proceedings.neurips.cc/paper_files/paper/2024/file/d6359156e0e30b1caa116a4306b12688-Paper-Conference.pdf,ECO ,Mixtral-8x7B-Instruct,47B,Bio,0.25
+https://proceedings.neurips.cc/paper_files/paper/2024/file/d6359156e0e30b1caa116a4306b12688-Paper-Conference.pdf,ECO ,Mixtral-8x7B-Instruct,47B,Chem,0.234
+https://proceedings.neurips.cc/paper_files/paper/2024/file/d6359156e0e30b1caa116a4306b12688-Paper-Conference.pdf,ECO ,Mixtral-8x7B-Instruct,47B,Cyber,0.264
+https://proceedings.neurips.cc/paper_files/paper/2024/file/d6359156e0e30b1caa116a4306b12688-Paper-Conference.pdf,ECO ,Mixtral-8x7B-Instruct,47B,MMLU,0.677
+https://proceedings.neurips.cc/paper_files/paper/2024/file/d6359156e0e30b1caa116a4306b12688-Paper-Conference.pdf,Baseline,Mixtral-8x22B-Instruct,141B,Bio,0.773
+https://proceedings.neurips.cc/paper_files/paper/2024/file/d6359156e0e30b1caa116a4306b12688-Paper-Conference.pdf,Baseline,Mixtral-8x22B-Instruct,141B,Chem,0.566
+https://proceedings.neurips.cc/paper_files/paper/2024/file/d6359156e0e30b1caa116a4306b12688-Paper-Conference.pdf,Baseline,Mixtral-8x22B-Instruct,141B,Cyber,0.526
+https://proceedings.neurips.cc/paper_files/paper/2024/file/d6359156e0e30b1caa116a4306b12688-Paper-Conference.pdf,Baseline,Mixtral-8x22B-Instruct,141B,MMLU,0.739
+https://proceedings.neurips.cc/paper_files/paper/2024/file/d6359156e0e30b1caa116a4306b12688-Paper-Conference.pdf,Prompting,Mixtral-8x22B-Instruct,141B,Bio,0.564
+https://proceedings.neurips.cc/paper_files/paper/2024/file/d6359156e0e30b1caa116a4306b12688-Paper-Conference.pdf,Prompting,Mixtral-8x22B-Instruct,141B,Chem,0.456
+https://proceedings.neurips.cc/paper_files/paper/2024/file/d6359156e0e30b1caa116a4306b12688-Paper-Conference.pdf,Prompting,Mixtral-8x22B-Instruct,141B,Cyber,0.425
+https://proceedings.neurips.cc/paper_files/paper/2024/file/d6359156e0e30b1caa116a4306b12688-Paper-Conference.pdf,Prompting,Mixtral-8x22B-Instruct,141B,MMLU,0.698
+https://proceedings.neurips.cc/paper_files/paper/2024/file/d6359156e0e30b1caa116a4306b12688-Paper-Conference.pdf,ECO ,Mixtral-8x22B-Instruct,141B,Bio,0.267
+https://proceedings.neurips.cc/paper_files/paper/2024/file/d6359156e0e30b1caa116a4306b12688-Paper-Conference.pdf,ECO ,Mixtral-8x22B-Instruct,141B,Chem,0.239
+https://proceedings.neurips.cc/paper_files/paper/2024/file/d6359156e0e30b1caa116a4306b12688-Paper-Conference.pdf,ECO ,Mixtral-8x22B-Instruct,141B,Cyber,0.241
+https://proceedings.neurips.cc/paper_files/paper/2024/file/d6359156e0e30b1caa116a4306b12688-Paper-Conference.pdf,ECO ,Mixtral-8x22B-Instruct,141B,MMLU,0.739
+https://proceedings.neurips.cc/paper_files/paper/2024/file/d6359156e0e30b1caa116a4306b12688-Paper-Conference.pdf,Baseline,DeepSeek-V2-Chat,236B,Bio,0.765
+https://proceedings.neurips.cc/paper_files/paper/2024/file/d6359156e0e30b1caa116a4306b12688-Paper-Conference.pdf,Baseline,DeepSeek-V2-Chat,236B,Chem,0.574
+https://proceedings.neurips.cc/paper_files/paper/2024/file/d6359156e0e30b1caa116a4306b12688-Paper-Conference.pdf,Baseline,DeepSeek-V2-Chat,236B,Cyber,0.489
+https://proceedings.neurips.cc/paper_files/paper/2024/file/d6359156e0e30b1caa116a4306b12688-Paper-Conference.pdf,Baseline,DeepSeek-V2-Chat,236B,MMLU,0.747
+https://proceedings.neurips.cc/paper_files/paper/2024/file/d6359156e0e30b1caa116a4306b12688-Paper-Conference.pdf,Prompting,DeepSeek-V2-Chat,236B,Bio,0.544
+https://proceedings.neurips.cc/paper_files/paper/2024/file/d6359156e0e30b1caa116a4306b12688-Paper-Conference.pdf,Prompting,DeepSeek-V2-Chat,236B,Chem,0.449
+https://proceedings.neurips.cc/paper_files/paper/2024/file/d6359156e0e30b1caa116a4306b12688-Paper-Conference.pdf,Prompting,DeepSeek-V2-Chat,236B,Cyber,0.463
+https://proceedings.neurips.cc/paper_files/paper/2024/file/d6359156e0e30b1caa116a4306b12688-Paper-Conference.pdf,Prompting,DeepSeek-V2-Chat,236B,MMLU,0.712
+https://proceedings.neurips.cc/paper_files/paper/2024/file/d6359156e0e30b1caa116a4306b12688-Paper-Conference.pdf,ECO ,DeepSeek-V2-Chat,236B,Bio,0.232
+https://proceedings.neurips.cc/paper_files/paper/2024/file/d6359156e0e30b1caa116a4306b12688-Paper-Conference.pdf,ECO ,DeepSeek-V2-Chat,236B,Chem,0.27
+https://proceedings.neurips.cc/paper_files/paper/2024/file/d6359156e0e30b1caa116a4306b12688-Paper-Conference.pdf,ECO ,DeepSeek-V2-Chat,236B,Cyber,0.238
+https://proceedings.neurips.cc/paper_files/paper/2024/file/d6359156e0e30b1caa116a4306b12688-Paper-Conference.pdf,ECO ,DeepSeek-V2-Chat,236B,MMLU,0.747
+https://arxiv.org/pdf/2508.06595v3,RMU,Mistral-7B-Instruct-v0.3,7B,BIO,0.309
+https://arxiv.org/pdf/2508.06595v3,RMU,Mistral-7B-Instruct-v0.3,7B,MMLU,0.584
+https://arxiv.org/pdf/2508.06595v3,RR,Mistral-7B-Instruct-v0.3,7B,BIO,0.28
+https://arxiv.org/pdf/2508.06595v3,RR,Mistral-7B-Instruct-v0.3,7B,MMLU,0.594
+https://arxiv.org/pdf/2508.06595v3,ELM,Mistral-7B-Instruct-v0.3,7B,BIO,0.306
+https://arxiv.org/pdf/2508.06595v3,ELM,Mistral-7B-Instruct-v0.3,7B,MMLU,0.339
+https://arxiv.org/pdf/2508.06595v3,RMU,Llama3-8BInstruct,8B,BIO,0.278
+https://arxiv.org/pdf/2508.06595v3,RMU,Llama3-8BInstruct,8B,MMLU,0.597
+https://arxiv.org/pdf/2508.06595v3,RR,Llama3-8BInstruct,8B,BIO,0.268
+https://arxiv.org/pdf/2508.06595v3,RR,Llama3-8BInstruct,8B,MMLU,0.427
+https://arxiv.org/pdf/2508.06595v3,ELM,Llama3-8BInstruct,8B,BIO,0.396
+https://arxiv.org/pdf/2508.06595v3,ELM,Llama3-8BInstruct,8B,MMLU,0.553
+https://arxiv.org/pdf/2508.06595v3,baseline,Mistral-7B-Instruct-v0.3,7B,BIO,0.675
+https://arxiv.org/pdf/2508.06595v3,baseline,Mistral-7B-Instruct-v0.3,7B,MMLU,0.596
+https://arxiv.org/pdf/2508.06595v3,baseline,Llama3-8BInstruct,8B,BIO,0.71
+https://arxiv.org/pdf/2508.06595v3,baseline,Llama3-8BInstruct,8B,MMLU,0.638
+https://arxiv.org/pdf/2508.06595v3,baseline,Mistral-7B-Instruct-v0.3,7B,CYBER,0.415
+https://arxiv.org/pdf/2508.06595v3,baseline,Llama3-8BInstruct,8B,Cyber,0.468
+https://arxiv.org/pdf/2508.06595v3,RMU,Mistral-7B-Instruct-v0.3,7B,CYBER,0.23
+https://arxiv.org/pdf/2508.06595v3,RMU,Mistral-7B-Instruct-v0.3,7B,MMLU,0.598
+https://arxiv.org/pdf/2508.06595v3,RR,Mistral-7B-Instruct-v0.3,7B,Cyber,0.239
+https://arxiv.org/pdf/2508.06595v3,RR,Mistral-7B-Instruct-v0.3,7B,MMLU,0.574
+https://arxiv.org/pdf/2508.06595v3,ELM,Mistral-7B-Instruct-v0.3,7B,Cyber,0.265
+https://arxiv.org/pdf/2508.06595v3,ELM,Mistral-7B-Instruct-v0.3,7B,MMLU,0.577
+https://arxiv.org/pdf/2508.06595v3,RMU,Llama3-8BInstruct,8B,Cyber,0.24
+https://arxiv.org/pdf/2508.06595v3,RMU,Llama3-8BInstruct,8B,MMLU,0.59
+https://arxiv.org/pdf/2508.06595v3,RR,Llama3-8BInstruct,8B,Cyber,0.248
+https://arxiv.org/pdf/2508.06595v3,RR,Llama3-8BInstruct,8B,MMLU,0.622
+https://arxiv.org/pdf/2508.06595v3,ELM,Llama3-8BInstruct,8B,Cyber,0.284
+https://arxiv.org/pdf/2508.06595v3,ELM,Llama3-8BInstruct,8B,MMLU,0.583
+https://arxiv.org/pdf/2506.12484v4,"No unlearning applied, but after relearning",Llama-3.2-1B,1B,BIO,0.455
+https://arxiv.org/pdf/2506.12484v4,TAR,Llama-3.2-1B,1B,BIO,0.43
+https://arxiv.org/pdf/2506.12484v4,MUDMAN,Llama-3.2-1B,1B,BIO,0.42
+https://arxiv.org/pdf/2506.12484v4,W/0 META LEARNING,Llama-3.2-1B,1B,BIO,0.435
+https://arxiv.org/pdf/2506.12484v4,W/0 MASKING,Llama-3.2-1B,1B,BIO,0.43
+https://arxiv.org/pdf/2506.12484v4,W/O normalization,Llama-3.2-1B,1B,BIO,0.43
+https://arxiv.org/pdf/2407.15549,baseline,Zephyr-7B-beta,7B,BIO,0.625
+https://arxiv.org/pdf/2407.15549,baseline,Zephyr-7B-beta,7B,Cyber,0.432
+https://arxiv.org/pdf/2407.15549,baseline,Zephyr-7B-beta,7B,MMLU,0.599
+https://arxiv.org/pdf/2407.15549,Gradient ascent,Zephyr-7B-beta,7B,BIO,0.374
+https://arxiv.org/pdf/2407.15549,Gradient ascent,Zephyr-7B-beta,7B,Cyber,0.301
+https://arxiv.org/pdf/2407.15549,Gradient ascent,Zephyr-7B-beta,7B,MMLU,0.48
+https://arxiv.org/pdf/2407.15549,Gradient ascent - LAT,Zephyr-7B-beta,7B,Bio,0.269
+https://arxiv.org/pdf/2407.15549,Gradient ascent - LAT,Zephyr-7B-beta,7B,Cyber,0.296
+https://arxiv.org/pdf/2407.15549,Gradient ascent - LAT,Zephyr-7B-beta,7B,MMLU,0.566
+https://arxiv.org/pdf/2407.15549,RMU,Zephyr-7B-beta,7B,Bio,0.319
+https://arxiv.org/pdf/2407.15549,RMU,Zephyr-7B-beta,7B,Cyber,0.284
+https://arxiv.org/pdf/2407.15549,RMU,Zephyr-7B-beta,7B,MMLU,0.592
+https://arxiv.org/pdf/2407.15549,RMU-LAT,Zephyr-7B-beta,7B,Bio,0.25
+https://arxiv.org/pdf/2407.15549,RMU-LAT,Zephyr-7B-beta,7B,Cyber,0.244
+https://arxiv.org/pdf/2407.15549,RMU-LAT,Zephyr-7B-beta,7B,MMLU,0.58
+https://arxiv.org/pdf/2408.00761,baseline,Llama-3-8B,8B,BIO,0.705
+https://arxiv.org/pdf/2408.00761,max entropy,Llama-3-8B,8B,BIO,0.332
+https://arxiv.org/pdf/2408.00761,min posterior,Llama-3-8B,8B,BIO,0.504
+https://arxiv.org/pdf/2408.00761,LLMU,Llama-3-8B,8B,BIO,0.299
+https://arxiv.org/pdf/2408.00761,RMU,Llama-3-8B,8B,BIO,0.312
+https://arxiv.org/pdf/2408.00761,TAR ,Llama-3-8B,8B,BIO,0.281
+https://arxiv.org/pdf/2408.00761,baseline,Llama-3-8B,8B,Chem,0.478
+https://arxiv.org/pdf/2408.00761,max entropy,Llama-3-8B,8B,Chem,0.5
+https://arxiv.org/pdf/2408.00761,min posterior,Llama-3-8B,8B,Chem,0.495
+https://arxiv.org/pdf/2408.00761,LLMU,Llama-3-8B,8B,Chem,0.301
+https://arxiv.org/pdf/2408.00761,RMU,Llama-3-8B,8B,Chem,0.275
+https://arxiv.org/pdf/2408.00761,TAR ,Llama-3-8B,8B,Chem,0.284
+https://arxiv.org/pdf/2408.00761,baseline,Llama-3-8B,8B,Cyber,0.464
+https://arxiv.org/pdf/2408.00761,max entropy,Llama-3-8B,8B,Cyber,0.287
+https://arxiv.org/pdf/2408.00761,min posterior,Llama-3-8B,8B,Cyber,0.418
+https://arxiv.org/pdf/2408.00761,LLMU,Llama-3-8B,8B,Cyber,0.276
+https://arxiv.org/pdf/2408.00761,RMU,Llama-3-8B,8B,Cyber,0.295
+https://arxiv.org/pdf/2408.00761,TAR ,Llama-3-8B,8B,Cyber,0.236
