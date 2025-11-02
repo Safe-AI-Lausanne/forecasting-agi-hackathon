@@ -59,20 +59,44 @@ https://proceedings.neurips.cc/paper_files/paper/2024/file/e099c1c9699814af0be87
 https://proceedings.neurips.cc/paper_files/paper/2024/file/e099c1c9699814af0be873a175361713-Paper-Conference.pdf,SimPO,Mistral 7B Instruct,7B,TRUTHFULQA,68.4,7.0
 https://arxiv.org/pdf/2501.00656,Baseline,OLMO 2,1B,TRUTHFULQA,42.1,1.0
 https://arxiv.org/pdf/2501.00656,DPO,OLMO 2,1B,TRUTHFULQA,46.4,1.0
-https://arxiv.org/pdf/2501.00656,DPO + RLVR,OLMO 2,1B,TRUTHFULQA,48.7,1.0
+https://arxiv.org/pdf/2501.00656,RLVR,OLMO 2,1B,TRUTHFULQA,48.7,1.0
 https://arxiv.org/pdf/2501.00656,SFT,OLMO 2,1B,TRUTHFULQA,42.1,1.0
 https://arxiv.org/pdf/2501.00656,Baseline,OLMO 2,7B,TRUTHFULQA,48.6,7.0
 https://arxiv.org/pdf/2501.00656,DPO,OLMO 2,7B,TRUTHFULQA,56.0,7.0
-https://arxiv.org/pdf/2501.00656,DPO + RLVR,OLMO 2,7B,TRUTHFULQA,56.5,7.0
+https://arxiv.org/pdf/2501.00656,RLVR,OLMO 2,7B,TRUTHFULQA,56.5,7.0
 https://arxiv.org/pdf/2501.00656,SFT,OLMO 2,7B,TRUTHFULQA,48.6,7.0
 https://arxiv.org/pdf/2501.00656,Baseline,OLMO 2,13B,TRUTHFULQA,57.1,13.0
 https://arxiv.org/pdf/2501.00656,DPO,OLMO 2,13B,TRUTHFULQA,63.9,13.0
-https://arxiv.org/pdf/2501.00656,DPO + RLVR,OLMO 2,13B,TRUTHFULQA,64.3,13.0
+https://arxiv.org/pdf/2501.00656,RLVR,OLMO 2,13B,TRUTHFULQA,64.3,13.0
 https://arxiv.org/pdf/2501.00656,SFT,OLMO 2,13B,TRUTHFULQA,57.1,13.0
 https://arxiv.org/pdf/2501.00656,Baseline,OLMO 2,32B,TRUTHFULQA,61.3,32.0
 https://arxiv.org/pdf/2501.00656,DPO,OLMO 2,32B,TRUTHFULQA,73.5,32.0
-https://arxiv.org/pdf/2501.00656,DPO + RLVR,OLMO 2,32B,TRUTHFULQA,73.2,32.0
+https://arxiv.org/pdf/2501.00656,RLVR,OLMO 2,32B,TRUTHFULQA,73.2,32.0
 https://arxiv.org/pdf/2501.00656,SFT,OLMO 2,32B,TRUTHFULQA,61.3,32.0
+https://arxiv.org/pdf/2501.00656,Baseline,OLMO2,1B,BIO,0.7411764705882353,1.0
+https://arxiv.org/pdf/2501.00656,DPO,OLMO2,1B,BIO,0.5882352941176471,1.0
+https://arxiv.org/pdf/2501.00656,SFT,OLMO2,1B,BIO,0.6313725490196078,1.0
+https://arxiv.org/pdf/2501.00656,Baseline,OLMO2,1B,CHEM,0.7073170731707317,1.0
+https://arxiv.org/pdf/2501.00656,DPO,OLMO2,1B,CHEM,0.6829268292682926,1.0
+https://arxiv.org/pdf/2501.00656,SFT,OLMO2,1B,CHEM,0.6951219512195121,1.0
+https://arxiv.org/pdf/2501.00656,Baseline,OLMO2,1B,CYBER,0.7657430730478589,1.0
+https://arxiv.org/pdf/2501.00656,DPO,OLMO2,1B,CYBER,0.7229219143576826,1.0
+https://arxiv.org/pdf/2501.00656,SFT,OLMO2,1B,CYBER,0.7178841309823678,1.0
+https://arxiv.org/pdf/2501.00656,Baseline,OLMO2,1B,HARMBENCH,0.40625,1.0
+https://arxiv.org/pdf/2501.00656,DPO,OLMO2,1B,HARMBENCH,0.85,1.0
+https://arxiv.org/pdf/2501.00656,SFT,OLMO2,1B,HARMBENCH,0.875,1.0
+https://arxiv.org/pdf/2501.00656,Baseline,OLMO2,7B,BIO,0.5607843137254902,7.0
+https://arxiv.org/pdf/2501.00656,DPO,OLMO2,7B,BIO,0.3450980392156862,7.0
+https://arxiv.org/pdf/2501.00656,SFT,OLMO2,7B,BIO,0.3372549019607843,7.0
+https://arxiv.org/pdf/2501.00656,Baseline,OLMO2,7B,CHEM,0.7439024390243902,7.0
+https://arxiv.org/pdf/2501.00656,DPO,OLMO2,7B,CHEM,0.4878048780487805,7.0
+https://arxiv.org/pdf/2501.00656,SFT,OLMO2,7B,CHEM,0.5487804878048781,7.0
+https://arxiv.org/pdf/2501.00656,Baseline,OLMO2,7B,CYBER,0.6624685138539043,7.0
+https://arxiv.org/pdf/2501.00656,DPO,OLMO2,7B,CYBER,0.5516372795969773,7.0
+https://arxiv.org/pdf/2501.00656,SFT,OLMO2,7B,CYBER,0.6171284634760705,7.0
+https://arxiv.org/pdf/2501.00656,Baseline,OLMO2,7B,HARMBENCH,0.275,7.0
+https://arxiv.org/pdf/2501.00656,DPO,OLMO2,7B,HARMBENCH,0.890625,7.0
+https://arxiv.org/pdf/2501.00656,SFT,OLMO2,7B,HARMBENCH,0.903125,7.0
 https://openreview.net/pdf/0fe7b2217515a82bd2db60ead4448f0c3ce60996.pdf,Baseline,Phi-4-mini-reasoning,3.8B,HARMBENCH,36.88,3.8
 https://openreview.net/pdf/0fe7b2217515a82bd2db60ead4448f0c3ce60996.pdf,RL,Phi-4-mini-reasoning,3.8B,HARMBENCH,8.44,3.8
 https://openreview.net/pdf/0fe7b2217515a82bd2db60ead4448f0c3ce60996.pdf,Baseline,Phi-4-mini-reasoning,3.8B,WILDJAILBREAK,95.2,3.8
@@ -87,6 +111,15 @@ https://openreview.net/pdf/0fe7b2217515a82bd2db60ead4448f0c3ce60996.pdf,Baseline
 https://openreview.net/pdf/0fe7b2217515a82bd2db60ead4448f0c3ce60996.pdf,RL,Qwen3-8B,8B,HARMBENCH,1.25,8.0
 https://openreview.net/pdf/0fe7b2217515a82bd2db60ead4448f0c3ce60996.pdf,Baseline,Qwen3-8B,8B,WILDJAILBREAK,96.4,8.0
 https://openreview.net/pdf/0fe7b2217515a82bd2db60ead4448f0c3ce60996.pdf,CoT prompting,Qwen3-8B,8B,WILDJAILBREAK,99.2,8.0
+https://arxiv.org/pdf/2311.10702,Baseline,TULU 2,7B,BIO,0.8509803921568627,7.0
+https://arxiv.org/pdf/2311.10702,DPO,TULU 2,7B,BIO,0.3647058823529412,7.0
+https://arxiv.org/pdf/2311.10702,SFT,TULU 2,7B,BIO,0.4470588235294117,7.0
+https://arxiv.org/pdf/2311.10702,Baseline,TULU 2,7B,CHEM,0.8414634146341463,7.0
+https://arxiv.org/pdf/2311.10702,DPO,TULU 2,7B,CHEM,0.6097560975609756,7.0
+https://arxiv.org/pdf/2311.10702,SFT,TULU 2,7B,CHEM,0.6707317073170731,7.0
+https://arxiv.org/pdf/2311.10702,Baseline,TULU 2,7B,CYBER,0.9219143576826196,7.0
+https://arxiv.org/pdf/2311.10702,DPO,TULU 2,7B,CYBER,0.6045340050377834,7.0
+https://arxiv.org/pdf/2311.10702,SFT,TULU 2,7B,CYBER,0.6171284634760705,7.0
 https://arxiv.org/pdf/2311.10702,Baseline,TULU 2,7B,DOANYTHINGNOW,43.0,7.0
 https://arxiv.org/pdf/2311.10702,DPO,TULU 2,7B,DOANYTHINGNOW,73.0,7.0
 https://arxiv.org/pdf/2311.10702,SFT,TULU 2,7B,DOANYTHINGNOW,65.0,7.0
@@ -98,12 +131,18 @@ https://arxiv.org/pdf/2311.10702,DPO,TULU 2,7B,TOXIGEN,0.5,7.0
 https://arxiv.org/pdf/2311.10702,SFT,TULU 2,7B,TOXIGEN,7.0,7.0
 https://arxiv.org/pdf/2311.10702,Baseline,TULU 2,7B,TRUTHFULQA,26.7,7.0
 https://arxiv.org/pdf/2311.10702,SFT,TULU 2,7B,TRUTHFULQA,40.8,7.0
-https://arxiv.org/pdf/2311.10702,Baseline,TULU 2,7B,WMDP,89.0,7.0
-https://arxiv.org/pdf/2311.10702,DPO,TULU 2,7B,WMDP,52.0,7.0
-https://arxiv.org/pdf/2311.10702,SFT,TULU 2,7B,WMDP,56.0,7.0
 https://arxiv.org/pdf/2311.10702,Baseline,TULU 2,7B,XSTEST,40.0,7.0
 https://arxiv.org/pdf/2311.10702,DPO,TULU 2,7B,XSTEST,89.0,7.0
 https://arxiv.org/pdf/2311.10702,SFT,TULU 2,7B,XSTEST,89.0,7.0
+https://arxiv.org/pdf/2311.10702,Baseline,TULU 2,13B,BIO,0.803921568627451,13.0
+https://arxiv.org/pdf/2311.10702,DPO,TULU 2,13B,BIO,0.384313725490196,13.0
+https://arxiv.org/pdf/2311.10702,SFT,TULU 2,13B,BIO,0.396078431372549,13.0
+https://arxiv.org/pdf/2311.10702,Baseline,TULU 2,13B,CHEM,0.7682926829268293,13.0
+https://arxiv.org/pdf/2311.10702,DPO,TULU 2,13B,CHEM,0.5731707317073171,13.0
+https://arxiv.org/pdf/2311.10702,SFT,TULU 2,13B,CHEM,0.5365853658536586,13.0
+https://arxiv.org/pdf/2311.10702,Baseline,TULU 2,13B,CYBER,0.8564231738035264,13.0
+https://arxiv.org/pdf/2311.10702,DPO,TULU 2,13B,CYBER,0.6045340050377834,13.0
+https://arxiv.org/pdf/2311.10702,SFT,TULU 2,13B,CYBER,0.5642317380352645,13.0
 https://arxiv.org/pdf/2311.10702,Baseline,TULU 2,13B,DOANYTHINGNOW,55.0,13.0
 https://arxiv.org/pdf/2311.10702,DPO,TULU 2,13B,DOANYTHINGNOW,75.0,13.0
 https://arxiv.org/pdf/2311.10702,SFT,TULU 2,13B,DOANYTHINGNOW,67.0,13.0
@@ -115,9 +154,6 @@ https://arxiv.org/pdf/2311.10702,DPO,TULU 2,13B,TOXIGEN,1.1,13.0
 https://arxiv.org/pdf/2311.10702,SFT,TULU 2,13B,TOXIGEN,1.7,13.0
 https://arxiv.org/pdf/2311.10702,Baseline,TULU 2,13B,TRUTHFULQA,31.1,13.0
 https://arxiv.org/pdf/2311.10702,SFT,TULU 2,13B,TRUTHFULQA,55.8,13.0
-https://arxiv.org/pdf/2311.10702,Baseline,TULU 2,13B,WMDP,83.0,13.0
-https://arxiv.org/pdf/2311.10702,DPO,TULU 2,13B,WMDP,52.0,13.0
-https://arxiv.org/pdf/2311.10702,SFT,TULU 2,13B,WMDP,50.0,13.0
 https://arxiv.org/pdf/2311.10702,Baseline,TULU 2,13B,XSTEST,66.0,13.0
 https://arxiv.org/pdf/2311.10702,DPO,TULU 2,13B,XSTEST,86.0,13.0
 https://arxiv.org/pdf/2311.10702,SFT,TULU 2,13B,XSTEST,89.0,13.0
@@ -129,55 +165,64 @@ https://arxiv.org/pdf/2311.10702,DPO,TULU 2,70B,TOXIGEN,0.2,70.0
 https://arxiv.org/pdf/2311.10702,SFT,TULU 2,70B,TOXIGEN,0.5,70.0
 https://arxiv.org/pdf/2311.10702,Baseline,TULU 2,70B,TRUTHFULQA,38.2,70.0
 https://arxiv.org/pdf/2311.10702,SFT,TULU 2,70B,TRUTHFULQA,62.2,70.0
+https://arxiv.org/pdf/2411.15124,Baseline,TULU 3,8B,BIO,0.7686274509803921,8.0
+https://arxiv.org/pdf/2411.15124,DPO,TULU 3,8B,BIO,0.3490196078431372,8.0
+https://arxiv.org/pdf/2411.15124,RLVR,TULU 3,8B,BIO,0.2627450980392156,8.0
+https://arxiv.org/pdf/2411.15124,Baseline,TULU 3,8B,CHEM,0.7439024390243902,8.0
+https://arxiv.org/pdf/2411.15124,DPO,TULU 3,8B,CHEM,0.5731707317073171,8.0
+https://arxiv.org/pdf/2411.15124,RLVR,TULU 3,8B,CHEM,0.5,8.0
+https://arxiv.org/pdf/2411.15124,Baseline,TULU 3,8B,CYBER,0.7758186397984886,8.0
+https://arxiv.org/pdf/2411.15124,DPO,TULU 3,8B,CYBER,0.5894206549118388,8.0
+https://arxiv.org/pdf/2411.15124,RLVR,TULU 3,8B,CYBER,0.5365239294710327,8.0
 https://arxiv.org/pdf/2411.15124,Baseline,TULU 3,8B,DOANYTHINGNOW,45.0,8.0
 https://arxiv.org/pdf/2411.15124,DPO,TULU 3,8B,DOANYTHINGNOW,69.7,8.0
-https://arxiv.org/pdf/2411.15124,DPO + RLVR,TULU 3,8B,DOANYTHINGNOW,62.0,8.0
+https://arxiv.org/pdf/2411.15124,RLVR,TULU 3,8B,DOANYTHINGNOW,62.0,8.0
 https://arxiv.org/pdf/2411.15124,SFT,TULU 3,8B,DOANYTHINGNOW,88.3,8.0
 https://arxiv.org/pdf/2411.15124,Baseline,TULU 3,8B,HARMBENCH,82.8,8.0
 https://arxiv.org/pdf/2411.15124,DPO,TULU 3,8B,HARMBENCH,94.4,8.0
-https://arxiv.org/pdf/2411.15124,DPO + RLVR,TULU 3,8B,HARMBENCH,94.7,8.0
+https://arxiv.org/pdf/2411.15124,RLVR,TULU 3,8B,HARMBENCH,94.7,8.0
 https://arxiv.org/pdf/2411.15124,SFT,TULU 3,8B,HARMBENCH,98.4,8.0
 https://arxiv.org/pdf/2411.15124,Baseline,TULU 3,8B,JAILBREAKTRIGGER,78.8,8.0
 https://arxiv.org/pdf/2411.15124,DPO,TULU 3,8B,JAILBREAKTRIGGER,87.0,8.0
-https://arxiv.org/pdf/2411.15124,DPO + RLVR,TULU 3,8B,JAILBREAKTRIGGER,85.5,8.0
+https://arxiv.org/pdf/2411.15124,RLVR,TULU 3,8B,JAILBREAKTRIGGER,85.5,8.0
 https://arxiv.org/pdf/2411.15124,SFT,TULU 3,8B,JAILBREAKTRIGGER,95.8,8.0
 https://arxiv.org/pdf/2411.15124,Baseline,TULU 3,8B,TOXIGEN,57.0,8.0
 https://arxiv.org/pdf/2411.15124,DPO,TULU 3,8B,TOXIGEN,0.0,8.0
-https://arxiv.org/pdf/2411.15124,DPO + RLVR,TULU 3,8B,TOXIGEN,0.0,8.0
+https://arxiv.org/pdf/2411.15124,RLVR,TULU 3,8B,TOXIGEN,0.0,8.0
 https://arxiv.org/pdf/2411.15124,SFT,TULU 3,8B,TOXIGEN,0.0,8.0
 https://arxiv.org/pdf/2411.15124,Baseline,TULU 3,8B,WILDGUARDTEST,86.2,8.0
 https://arxiv.org/pdf/2411.15124,DPO,TULU 3,8B,WILDGUARDTEST,98.9,8.0
-https://arxiv.org/pdf/2411.15124,DPO + RLVR,TULU 3,8B,WILDGUARDTEST,98.5,8.0
+https://arxiv.org/pdf/2411.15124,RLVR,TULU 3,8B,WILDGUARDTEST,98.5,8.0
 https://arxiv.org/pdf/2411.15124,SFT,TULU 3,8B,WILDGUARDTEST,99.2,8.0
 https://arxiv.org/pdf/2411.15124,Baseline,TULU 3,8B,WILDJAILBREAK,65.6,8.0
 https://arxiv.org/pdf/2411.15124,DPO,TULU 3,8B,WILDJAILBREAK,81.1,8.0
-https://arxiv.org/pdf/2411.15124,DPO + RLVR,TULU 3,8B,WILDJAILBREAK,78.8,8.0
+https://arxiv.org/pdf/2411.15124,RLVR,TULU 3,8B,WILDJAILBREAK,78.8,8.0
 https://arxiv.org/pdf/2411.15124,SFT,TULU 3,8B,WILDJAILBREAK,86.7,8.0
 https://arxiv.org/pdf/2411.15124,Baseline,TULU 3,8B,XSTEST,92.7,8.0
 https://arxiv.org/pdf/2411.15124,DPO,TULU 3,8B,XSTEST,92.4,8.0
-https://arxiv.org/pdf/2411.15124,DPO + RLVR,TULU 3,8B,XSTEST,93.3,8.0
+https://arxiv.org/pdf/2411.15124,RLVR,TULU 3,8B,XSTEST,93.3,8.0
 https://arxiv.org/pdf/2411.15124,SFT,TULU 3,8B,XSTEST,90.4,8.0
 https://arxiv.org/pdf/2411.15124,Baseline,TULU 3,70B,DOANYTHINGNOW,80.0,70.0
 https://arxiv.org/pdf/2411.15124,DPO,TULU 3,70B,DOANYTHINGNOW,69.0,70.0
-https://arxiv.org/pdf/2411.15124,DPO + RLVR,TULU 3,70B,DOANYTHINGNOW,67.7,70.0
+https://arxiv.org/pdf/2411.15124,RLVR,TULU 3,70B,DOANYTHINGNOW,67.7,70.0
 https://arxiv.org/pdf/2411.15124,SFT,TULU 3,70B,DOANYTHINGNOW,93.7,70.0
 https://arxiv.org/pdf/2411.15124,Baseline,TULU 3,70B,HARMBENCH,80.6,70.0
 https://arxiv.org/pdf/2411.15124,DPO,TULU 3,70B,HARMBENCH,97.8,70.0
-https://arxiv.org/pdf/2411.15124,DPO + RLVR,TULU 3,70B,HARMBENCH,97.8,70.0
+https://arxiv.org/pdf/2411.15124,RLVR,TULU 3,70B,HARMBENCH,97.8,70.0
 https://arxiv.org/pdf/2411.15124,SFT,TULU 3,70B,HARMBENCH,98.8,70.0
 https://arxiv.org/pdf/2411.15124,Baseline,TULU 3,70B,JAILBREAKTRIGGER,71.0,70.0
 https://arxiv.org/pdf/2411.15124,DPO,TULU 3,70B,JAILBREAKTRIGGER,87.0,70.0
-https://arxiv.org/pdf/2411.15124,DPO + RLVR,TULU 3,70B,JAILBREAKTRIGGER,86.7,70.0
+https://arxiv.org/pdf/2411.15124,RLVR,TULU 3,70B,JAILBREAKTRIGGER,86.7,70.0
 https://arxiv.org/pdf/2411.15124,SFT,TULU 3,70B,JAILBREAKTRIGGER,95.3,70.0
 https://arxiv.org/pdf/2411.15124,Baseline,TULU 3,70B,WILDGUARDTEST,81.3,70.0
 https://arxiv.org/pdf/2411.15124,DPO,TULU 3,70B,WILDGUARDTEST,99.2,70.0
-https://arxiv.org/pdf/2411.15124,DPO + RLVR,TULU 3,70B,WILDGUARDTEST,98.9,70.0
+https://arxiv.org/pdf/2411.15124,RLVR,TULU 3,70B,WILDGUARDTEST,98.9,70.0
 https://arxiv.org/pdf/2411.15124,SFT,TULU 3,70B,WILDGUARDTEST,99.1,70.0
 https://arxiv.org/pdf/2411.15124,Baseline,TULU 3,70B,WILDJAILBREAK,59.2,70.0
 https://arxiv.org/pdf/2411.15124,DPO,TULU 3,70B,WILDJAILBREAK,86.3,70.0
-https://arxiv.org/pdf/2411.15124,DPO + RLVR,TULU 3,70B,WILDJAILBREAK,86.2,70.0
+https://arxiv.org/pdf/2411.15124,RLVR,TULU 3,70B,WILDJAILBREAK,86.2,70.0
 https://arxiv.org/pdf/2411.15124,SFT,TULU 3,70B,WILDJAILBREAK,88.6,70.0
 https://arxiv.org/pdf/2411.15124,Baseline,TULU 3,70B,XSTEST,87.1,70.0
 https://arxiv.org/pdf/2411.15124,DPO,TULU 3,70B,XSTEST,94.9,70.0
-https://arxiv.org/pdf/2411.15124,DPO + RLVR,TULU 3,70B,XSTEST,92.4,70.0
+https://arxiv.org/pdf/2411.15124,RLVR,TULU 3,70B,XSTEST,92.4,70.0
 https://arxiv.org/pdf/2411.15124,SFT,TULU 3,70B,XSTEST,91.1,70.0
