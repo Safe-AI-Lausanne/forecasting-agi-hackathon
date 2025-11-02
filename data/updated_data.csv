@@ -27,14 +27,14 @@ https://arxiv.org/pdf/2403.03236,RMU (OURS),Y1-34B,34B,BIO,0.307,34
 https://arxiv.org/pdf/2403.03237,RMU (OURS),Y1-34B,34B,CHEM,0.554,34
 https://arxiv.org/pdf/2403.03238,RMU (OURS),Y1-34B,34B,MMLU,0.706,34
 https://arxiv.org/pdf/2403.03239,RMU (OURS),Y1-34B,34B,CYBER,0.29,34
-https://arxiv.org/pdf/2403.03240,Baseline,MIXTRAL-8X7B,7B,BIO,0.748,7
-https://arxiv.org/pdf/2403.03241,Baseline,MIXTRAL-8X7B,7B,CHEM,0.552,7
-https://arxiv.org/pdf/2403.03242,Baseline,MIXTRAL-8X7B,7B,MMLU,0.682,7
-https://arxiv.org/pdf/2403.03243,Baseline,MIXTRAL-8X7B,7B,Cyber,0.52,7
-https://arxiv.org/pdf/2403.03244,RMU (OURS),MIXTRAL-8X7B,7B,BIO,0.34,7
-https://arxiv.org/pdf/2403.03245,RMU (OURS),MIXTRAL-8X7B,7B,CHEM,0.547,7
-https://arxiv.org/pdf/2403.03246,RMU (OURS),MIXTRAL-8X7B,7B,MMLU,0.671,7
-https://arxiv.org/pdf/2403.03247,RMU (OURS),MIXTRAL-8X7B,7B,Cyber,0.308,7
+https://arxiv.org/pdf/2403.03240,Baseline,MIXTRAL-8X7B,47B,BIO,0.748,7
+https://arxiv.org/pdf/2403.03241,Baseline,MIXTRAL-8X7B,47B,CHEM,0.552,7
+https://arxiv.org/pdf/2403.03242,Baseline,MIXTRAL-8X7B,47B,MMLU,0.682,7
+https://arxiv.org/pdf/2403.03243,Baseline,MIXTRAL-8X7B,47B,Cyber,0.52,7
+https://arxiv.org/pdf/2403.03244,RMU (OURS),MIXTRAL-8X7B,47B,BIO,0.34,7
+https://arxiv.org/pdf/2403.03245,RMU (OURS),MIXTRAL-8X7B,47B,CHEM,0.547,7
+https://arxiv.org/pdf/2403.03246,RMU (OURS),MIXTRAL-8X7B,47B,MMLU,0.671,7
+https://arxiv.org/pdf/2403.03247,RMU (OURS),MIXTRAL-8X7B,47B,Cyber,0.308,7
 https://proceedings.neurips.cc/paper_files/paper/2024/file/d6359156e0e30b1caa116a4306b12688-Paper-Conference.pdf,Baseline,Zephyr-7B,7B,Bio,0.642,7
 https://proceedings.neurips.cc/paper_files/paper/2024/file/d6359156e0e30b1caa116a4306b12688-Paper-Conference.pdf,Baseline,Zephyr-7B,7B,Chem,0.483,7
 https://proceedings.neurips.cc/paper_files/paper/2024/file/d6359156e0e30b1caa116a4306b12688-Paper-Conference.pdf,Baseline,Zephyr-7B,7B,Cyber,0.431,7
@@ -187,4 +187,5 @@ https://arxiv.org/pdf/2408.00774,max entropy,Llama-3-8B,8B,Cyber,0.287,8
 https://arxiv.org/pdf/2408.00775,min posterior,Llama-3-8B,8B,Cyber,0.418,8
 https://arxiv.org/pdf/2408.00776,LLMU,Llama-3-8B,8B,Cyber,0.276,8
 https://arxiv.org/pdf/2408.00777,RMU,Llama-3-8B,8B,Cyber,0.295,8
+
 https://arxiv.org/pdf/2408.00778,TAR (ours),Llama-3-8B,8B,Cyber,0.236,8
