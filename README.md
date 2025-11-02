@@ -1,5 +1,7 @@
 # forecasting-agi-hackathon
 
+Report [here](https://docs.google.com/document/d/1w2K-hFpSwe-bI-UiqJeztg2fve1qXjuaoLllCFxHkGs/edit?usp=sharing)
+
 ## Memo
 - **Data preprocessing** (`notebooks/preprocess_and_merge.ipynb`)
 - **Visualization & analysis** (`notebooks/safety_benchmark_visualizations.ipynb`)
