@@ -1,0 +1,20 @@
+Source paper,Technique,Model,Scale,Benchmark,Benchmark perf
+https://arxiv.org/pdf/2403.03218,NO - Baseline,ZEPHYR-7B,7B,BIO,63.7
+https://arxiv.org/pdf/2403.03219,NO - Baseline,ZEPHYR-7B,7B,Cyber,44
+https://arxiv.org/pdf/2403.03220,LLMU,ZEPHYR-7B,7B,BIO,59.5
+https://arxiv.org/pdf/2403.03221,LLMU,ZEPHYR-7B,7B,CYBER,39.5
+https://arxiv.org/pdf/2403.03222,SCRUB,ZEPHYR-7B,7B,BIO,43.8
+https://arxiv.org/pdf/2403.03223,SCRUB,ZEPHYR-7B,7B,CYBER,39.3
+https://arxiv.org/pdf/2403.03224,SSD,ZEPHYR-7B,7B,BIO,50.2
+https://arxiv.org/pdf/2403.03225,SSD,ZEPHYR-7B,7B,CYBER,35
+https://arxiv.org/pdf/2403.03226,RMU (OURS),ZEPHYR-7B,7B,BIO,31.2
+https://arxiv.org/pdf/2403.03227,RMU (OURS),ZEPHYR-7B,7B,CYBER,28.2
+https://arxiv.org/pdf/2403.03228,NO - Baseline,Y1-34B,34B,BIO,75.3
+https://arxiv.org/pdf/2403.03229,NO - Baseline,Y1-34B,34B,CYBER,49.7
+https://arxiv.org/pdf/2403.03230,RMU (OURS),Y1-34B,34B,BIO,30.7
+https://arxiv.org/pdf/2403.03231,RMU (OURS),Y1-34B,34B,CYBER,29
+https://arxiv.org/pdf/2403.03232,NO - Baseline,MIXTRAL-8X7B,7B,BIO,74.8
+https://arxiv.org/pdf/2403.03233,NO - Baseline,MIXTRAL-8X7B,7B,Cyber,52
+https://arxiv.org/pdf/2403.03234,RMU (OURS),MIXTRAL-8X7B,7B,BIO,34
+https://arxiv.org/pdf/2403.03235,RMU (OURS),MIXTRAL-8X7B,7B,Cyber,30.8
+https://proceedings.neurips.cc/paper_files/paper/2024/file/d6359156e0e30b1caa116a4306b12688-Paper-Conference.pdf,,,,,

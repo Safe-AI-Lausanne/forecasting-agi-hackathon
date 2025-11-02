@@ -1,0 +1,122 @@
+Source paper,Technique,Model,Scale,Benchmark,Baseline perf,Benchmark perf
+https://arxiv.org/pdf/2503.17365v1,ICL,DeepSeek-R1 Distill Llama 8B,8B,HarmBench ASR,46.70,8.90
+https://arxiv.org/pdf/2503.17365v1,ICL,Gemma-2 9B-it,9B,HarmBench ASR,58.90,26.70
+https://arxiv.org/pdf/2503.17365v1,ICL,Llama 3.1 8B Instruct,8B,HarmBench ASR,70.00,18.90
+https://arxiv.org/pdf/2503.17365v1,ICL,Qwen2.5 7B Instruct,7B,HarmBench ASR,81.10,56.70
+https://arxiv.org/pdf/2311.10702,SFT,TULU 2,7B,ToxiGen,77.30,7.00
+https://arxiv.org/pdf/2311.10702,SFT,TULU 2,7B,TruthfulQA,26.70,40.80
+https://arxiv.org/pdf/2311.10702,SFT (QLORA),TULU 2,7B,ToxiGen,77.30,14.70
+https://arxiv.org/pdf/2311.10702,SFT (QLORA),TULU 2,7B,TruthfulQA,26.70,44.60
+https://arxiv.org/pdf/2311.10702,SFT + DPO,TULU 2,7B,ToxiGen,77.30,0.50
+https://arxiv.org/pdf/2311.10702,SFT (V1 mix),Llama 2-7B,7B,ToxiGen,77.30,39.90
+https://arxiv.org/pdf/2311.10702,SFT (V1 mix),Llama 2-7B,7B,TruthfulQA,26.70,40.80
+https://arxiv.org/pdf/2311.10702,SFT (V2 mix),Llama 2-7B,7B,ToxiGen,77.30,7.00
+https://arxiv.org/pdf/2311.10702,SFT (V2 mix),Llama 2-7B,7B,TruthfulQA,26.70,50.20
+https://arxiv.org/pdf/2311.10702,SFT,TULU 2,13B,ToxiGen,85.70,1.70
+https://arxiv.org/pdf/2311.10702,SFT,TULU 2,13B,TruthfulQA,31.10,55.80
+https://arxiv.org/pdf/2311.10702,SFT (QLORA),TULU 2,13B,ToxiGen,85.70,0.00
+https://arxiv.org/pdf/2311.10702,SFT (QLORA),TULU 2,13B,TruthfulQA,31.10,55.20
+https://arxiv.org/pdf/2311.10702,SFT + DPO,TULU 2,13B,ToxiGen,85.70,1.10
+https://arxiv.org/pdf/2311.10702,SFT (V1 mix),Llama 2-13B,13B,ToxiGen,85.70,18.70
+https://arxiv.org/pdf/2311.10702,SFT (V1 mix),Llama 2-13B,13B,TruthfulQA,31.10,45.30
+https://arxiv.org/pdf/2311.10702,SFT (V2 mix),Llama 2-13B,13B,ToxiGen,85.70,1.70
+https://arxiv.org/pdf/2311.10702,SFT (V2 mix),Llama 2-13B,13B,TruthfulQA,31.10,55.80
+https://arxiv.org/pdf/2311.10702,SFT,TULU 2,70B,ToxiGen,84.20,0.50
+https://arxiv.org/pdf/2311.10702,SFT,TULU 2,70B,TruthfulQA,38.20,62.20
+https://arxiv.org/pdf/2311.10702,SFT (QLORA),TULU 2,70B,ToxiGen,84.20,0.50
+https://arxiv.org/pdf/2311.10702,SFT (QLORA),TULU 2,70B,TruthfulQA,38.20,58.40
+https://arxiv.org/pdf/2311.10702,SFT + DPO,TULU 2,70B,ToxiGen,84.20,0.20
+https://arxiv.org/pdf/2311.10702,SFT (V1 mix),Llama 2-70B,70B,ToxiGen,84.20,0.00
+https://arxiv.org/pdf/2311.10702,SFT (V1 mix),Llama 2-70B,70B,TruthfulQA,38.20,57.90
+https://arxiv.org/pdf/2311.10702,SFT (V2 mix),Llama 2-70B,70B,ToxiGen,84.20,0.50
+https://arxiv.org/pdf/2311.10702,SFT (V2 mix),Llama 2-70B,70B,TruthfulQA,38.20,62.20
+https://arxiv.org/pdf/2411.15124,SFT,TULU 3,8B,HarmBench,82.8,98.4
+https://arxiv.org/pdf/2411.15124,SFT + DPO,TULU 3,8B,HarmBench,82.8,94.4
+https://arxiv.org/pdf/2411.15124,SFT + DPO + RLVR,TULU 3,8B,HarmBench,82.8,94.7
+https://arxiv.org/pdf/2411.15124,SFT,TULU 3,8B,XSTest,92.7,90.4
+https://arxiv.org/pdf/2411.15124,SFT + DPO,TULU 3,8B,XSTest,92.7,92.4
+https://arxiv.org/pdf/2411.15124,SFT + DPO + RLVR,TULU 3,8B,XSTest,92.7,93.3
+https://arxiv.org/pdf/2411.15124,SFT,TULU 3,8B,WildGuardTest,86.2,99.2
+https://arxiv.org/pdf/2411.15124,SFT + DPO,TULU 3,8B,WildGuardTest,86.2,98.9
+https://arxiv.org/pdf/2411.15124,SFT + DPO + RLVR,TULU 3,8B,WildGuardTest,86.2,98.5
+https://arxiv.org/pdf/2411.15124,SFT,TULU 3,8B,Jailbreaktrigger,78.8,95.8
+https://arxiv.org/pdf/2411.15124,SFT + DPO,TULU 3,8B,Jailbreaktrigger,78.8,87
+https://arxiv.org/pdf/2411.15124,SFT + DPO + RLVR,TULU 3,8B,Jailbreaktrigger,78.8,85.5
+https://arxiv.org/pdf/2411.15124,SFT,TULU 3,8B,DoAnythingNow,45,88.3
+https://arxiv.org/pdf/2411.15124,SFT + DPO,TULU 3,8B,DoAnythingNow,45,69.7
+https://arxiv.org/pdf/2411.15124,SFT + DPO + RLVR,TULU 3,8B,DoAnythingNow,45,62
+https://arxiv.org/pdf/2411.15124,SFT,TULU 3,8B,WildJailbreak,65.6,86.7
+https://arxiv.org/pdf/2411.15124,SFT + DPO,TULU 3,8B,WildJailbreak,65.6,81.1
+https://arxiv.org/pdf/2411.15124,SFT + DPO + RLVR,TULU 3,8B,WildJailbreak,65.6,78.8
+https://arxiv.org/pdf/2411.15124,SFT,TULU 3,70B,HarmBench,80.6,98.8
+https://arxiv.org/pdf/2411.15124,SFT + DPO,TULU 3,70B,HarmBench,80.6,97.8
+https://arxiv.org/pdf/2411.15124,SFT + DPO + RLVR,TULU 3,70B,HarmBench,80.6,97.8
+https://arxiv.org/pdf/2411.15124,SFT,TULU 3,70B,XSTest,87.1,91.1
+https://arxiv.org/pdf/2411.15124,SFT + DPO,TULU 3,70B,XSTest,87.1,94.9
+https://arxiv.org/pdf/2411.15124,SFT + DPO + RLVR,TULU 3,70B,XSTest,87.1,92.4
+https://arxiv.org/pdf/2411.15124,SFT,TULU 3,70B,WildGuardTest,81.3,99.1
+https://arxiv.org/pdf/2411.15124,SFT + DPO,TULU 3,70B,WildGuardTest,81.3,99.2
+https://arxiv.org/pdf/2411.15124,SFT + DPO + RLVR,TULU 3,70B,WildGuardTest,81.3,98.9
+https://arxiv.org/pdf/2411.15124,SFT,TULU 3,70B,Jailbreaktrigger,71,95.3
+https://arxiv.org/pdf/2411.15124,SFT + DPO,TULU 3,70B,Jailbreaktrigger,71,87
+https://arxiv.org/pdf/2411.15124,SFT + DPO + RLVR,TULU 3,70B,Jailbreaktrigger,71,86.7
+https://arxiv.org/pdf/2411.15124,SFT,TULU 3,70B,DoAnythingNow,80,93.7
+https://arxiv.org/pdf/2411.15124,SFT + DPO,TULU 3,70B,DoAnythingNow,80,69
+https://arxiv.org/pdf/2411.15124,SFT + DPO + RLVR,TULU 3,70B,DoAnythingNow,80,67.7
+https://arxiv.org/pdf/2411.15124,SFT,TULU 3,70B,WildJailbreak,59.2,88.6
+https://arxiv.org/pdf/2411.15124,SFT + DPO,TULU 3,70B,WildJailbreak,59.2,86.3
+https://arxiv.org/pdf/2411.15124,SFT + DPO + RLVR,TULU 3,70B,WildJailbreak,59.2,86.2
+https://arxiv.org/pdf/2501.00656,SFT,OLMO 2,1B,TruthfulQA,42.1,42.1
+https://arxiv.org/pdf/2501.00656,SFT + DPO,OLMO 2,1B,TruthfulQA,42.1,46.4
+https://arxiv.org/pdf/2501.00656,SFT + DPO + RLVR,OLMO 2,1B,TruthfulQA,42.1,48.7
+https://arxiv.org/pdf/2501.00656,SFT,OLMO 2,7B,TruthfulQA,48.6,48.6
+https://arxiv.org/pdf/2501.00656,SFT + DPO,OLMO 2,7B,TruthfulQA,48.6,56
+https://arxiv.org/pdf/2501.00656,SFT + DPO + RLVR,OLMO 2,7B,TruthfulQA,48.6,56.5
+https://arxiv.org/pdf/2501.00656,SFT,OLMO 2,13B,TruthfulQA,57.1,57.1
+https://arxiv.org/pdf/2501.00656,SFT + DPO,OLMO 2,13B,TruthfulQA,57.1,63.9
+https://arxiv.org/pdf/2501.00656,SFT + DPO + RLVR,OLMO 2,13B,TruthfulQA,57.1,64.3
+https://arxiv.org/pdf/2501.00656,SFT,OLMO 2,32B,TruthfulQA,61.3,61.3
+https://arxiv.org/pdf/2501.00656,SFT + DPO,OLMO 2,32B,TruthfulQA,61.3,73.5
+https://arxiv.org/pdf/2501.00656,SFT + DPO + RLVR,OLMO 2,32B,TruthfulQA,61.3,73.2
+https://openreview.net/pdf/0fe7b2217515a82bd2db60ead4448f0c3ce60996.pdf,RL,Qwen3-4B,4B,Harmbench,22.5,4.37
+https://openreview.net/pdf/0fe7b2217515a82bd2db60ead4448f0c3ce60996.pdf,CoT prompting,Qwen3-4B,4B,WildJailbreak,97.2,98.8
+https://openreview.net/pdf/0fe7b2217515a82bd2db60ead4448f0c3ce60996.pdf,RL,Qwen3-8B,8B,Harmbench,14.37,1.25
+https://openreview.net/pdf/0fe7b2217515a82bd2db60ead4448f0c3ce60996.pdf,CoT prompting,Qwen3-8B,8B,WildJailbreak,96.4,99.2
+https://openreview.net/pdf/0fe7b2217515a82bd2db60ead4448f0c3ce60996.pdf,RL,Phi-4-mini-reasoning,3.8B,Harmbench,36.88,8.44
+https://openreview.net/pdf/0fe7b2217515a82bd2db60ead4448f0c3ce60996.pdf,CoT prompting,Phi-4-mini-reasoning,3.8B,WildJailbreak,95.2,98.4
+https://proceedings.neurips.cc/paper_files/paper/2024/file/e099c1c9699814af0be873a175361713-Paper-Conference.pdf,RRHF,Mistral 7B,7B,TruthfulQA,40.35,43.73
+https://proceedings.neurips.cc/paper_files/paper/2024/file/e099c1c9699814af0be873a175361713-Paper-Conference.pdf,SLiC-HF,Mistral 7B,7B,TruthfulQA,40.35,48.36
+https://proceedings.neurips.cc/paper_files/paper/2024/file/e099c1c9699814af0be873a175361713-Paper-Conference.pdf,DPO,Mistral 7B,7B,TruthfulQA,40.35,53.06
+https://proceedings.neurips.cc/paper_files/paper/2024/file/e099c1c9699814af0be873a175361713-Paper-Conference.pdf,IPO,Mistral 7B,7B,TruthfulQA,40.35,45.44
+https://proceedings.neurips.cc/paper_files/paper/2024/file/e099c1c9699814af0be873a175361713-Paper-Conference.pdf,CPO,Mistral 7B,7B,TruthfulQA,40.35,47.07
+https://proceedings.neurips.cc/paper_files/paper/2024/file/e099c1c9699814af0be873a175361713-Paper-Conference.pdf,KTO,Mistral 7B,7B,TruthfulQA,40.35,56.6
+https://proceedings.neurips.cc/paper_files/paper/2024/file/e099c1c9699814af0be873a175361713-Paper-Conference.pdf,ORPO,Mistral 7B,7B,TruthfulQA,40.35,47.91
+https://proceedings.neurips.cc/paper_files/paper/2024/file/e099c1c9699814af0be873a175361713-Paper-Conference.pdf,R-DPO,Mistral 7B,7B,TruthfulQA,40.35,46.12
+https://proceedings.neurips.cc/paper_files/paper/2024/file/e099c1c9699814af0be873a175361713-Paper-Conference.pdf,SimPO,Mistral 7B,7B,TruthfulQA,40.35,50.68
+https://proceedings.neurips.cc/paper_files/paper/2024/file/e099c1c9699814af0be873a175361713-Paper-Conference.pdf,RRHF,Mistral 7B Instruct,7B,TruthfulQA,66.81,67.98
+https://proceedings.neurips.cc/paper_files/paper/2024/file/e099c1c9699814af0be873a175361713-Paper-Conference.pdf,SLiC-HF,Mistral 7B Instruct,7B,TruthfulQA,66.81,65.3
+https://proceedings.neurips.cc/paper_files/paper/2024/file/e099c1c9699814af0be873a175361713-Paper-Conference.pdf,DPO,Mistral 7B Instruct,7B,TruthfulQA,66.81,66.71
+https://proceedings.neurips.cc/paper_files/paper/2024/file/e099c1c9699814af0be873a175361713-Paper-Conference.pdf,IPO,Mistral 7B Instruct,7B,TruthfulQA,66.81,67.36
+https://proceedings.neurips.cc/paper_files/paper/2024/file/e099c1c9699814af0be873a175361713-Paper-Conference.pdf,CPO,Mistral 7B Instruct,7B,TruthfulQA,66.81,67.38
+https://proceedings.neurips.cc/paper_files/paper/2024/file/e099c1c9699814af0be873a175361713-Paper-Conference.pdf,KTO,Mistral 7B Instruct,7B,TruthfulQA,66.81,68.45
+https://proceedings.neurips.cc/paper_files/paper/2024/file/e099c1c9699814af0be873a175361713-Paper-Conference.pdf,ORPO,Mistral 7B Instruct,7B,TruthfulQA,66.81,66.33
+https://proceedings.neurips.cc/paper_files/paper/2024/file/e099c1c9699814af0be873a175361713-Paper-Conference.pdf,R-DPO,Mistral 7B Instruct,7B,TruthfulQA,66.81,68.22
+https://proceedings.neurips.cc/paper_files/paper/2024/file/e099c1c9699814af0be873a175361713-Paper-Conference.pdf,SimPO,Mistral 7B Instruct,7B,TruthfulQA,66.81,68.4
+https://proceedings.neurips.cc/paper_files/paper/2024/file/e099c1c9699814af0be873a175361713-Paper-Conference.pdf,RRHF,Llama-3 8B,8B,TruthfulQA,45.33,55.01
+https://proceedings.neurips.cc/paper_files/paper/2024/file/e099c1c9699814af0be873a175361713-Paper-Conference.pdf,SLiC-HF,Llama-3 8B,8B,TruthfulQA,45.33,54.95
+https://proceedings.neurips.cc/paper_files/paper/2024/file/e099c1c9699814af0be873a175361713-Paper-Conference.pdf,DPO,Llama-3 8B,8B,TruthfulQA,45.33,53.48
+https://proceedings.neurips.cc/paper_files/paper/2024/file/e099c1c9699814af0be873a175361713-Paper-Conference.pdf,IPO,Llama-3 8B,8B,TruthfulQA,45.33,54.2
+https://proceedings.neurips.cc/paper_files/paper/2024/file/e099c1c9699814af0be873a175361713-Paper-Conference.pdf,CPO,Llama-3 8B,8B,TruthfulQA,45.33,54.29
+https://proceedings.neurips.cc/paper_files/paper/2024/file/e099c1c9699814af0be873a175361713-Paper-Conference.pdf,KTO,Llama-3 8B,8B,TruthfulQA,45.33,55.76
+https://proceedings.neurips.cc/paper_files/paper/2024/file/e099c1c9699814af0be873a175361713-Paper-Conference.pdf,ORPO,Llama-3 8B,8B,TruthfulQA,45.33,56.11
+https://proceedings.neurips.cc/paper_files/paper/2024/file/e099c1c9699814af0be873a175361713-Paper-Conference.pdf,R-DPO,Llama-3 8B,8B,TruthfulQA,45.33,53.41
+https://proceedings.neurips.cc/paper_files/paper/2024/file/e099c1c9699814af0be873a175361713-Paper-Conference.pdf,SimPO,Llama-3 8B,8B,TruthfulQA,45.33,59.46
+https://proceedings.neurips.cc/paper_files/paper/2024/file/e099c1c9699814af0be873a175361713-Paper-Conference.pdf,RRHF,Llama-3 8B Instruct,8B,TruthfulQA,51.66,53.76
+https://proceedings.neurips.cc/paper_files/paper/2024/file/e099c1c9699814af0be873a175361713-Paper-Conference.pdf,SLiC-HF,Llama-3 8B Instruct,8B,TruthfulQA,51.66,53.23
+https://proceedings.neurips.cc/paper_files/paper/2024/file/e099c1c9699814af0be873a175361713-Paper-Conference.pdf,DPO,Llama-3 8B Instruct,8B,TruthfulQA,51.66,59.01
+https://proceedings.neurips.cc/paper_files/paper/2024/file/e099c1c9699814af0be873a175361713-Paper-Conference.pdf,IPO,Llama-3 8B Instruct,8B,TruthfulQA,51.66,54.64
+https://proceedings.neurips.cc/paper_files/paper/2024/file/e099c1c9699814af0be873a175361713-Paper-Conference.pdf,CPO,Llama-3 8B Instruct,8B,TruthfulQA,51.66,54.01
+https://proceedings.neurips.cc/paper_files/paper/2024/file/e099c1c9699814af0be873a175361713-Paper-Conference.pdf,KTO,Llama-3 8B Instruct,8B,TruthfulQA,51.66,58.15
+https://proceedings.neurips.cc/paper_files/paper/2024/file/e099c1c9699814af0be873a175361713-Paper-Conference.pdf,ORPO,Llama-3 8B Instruct,8B,TruthfulQA,51.66,54.37
+https://proceedings.neurips.cc/paper_files/paper/2024/file/e099c1c9699814af0be873a175361713-Paper-Conference.pdf,R-DPO,Llama-3 8B Instruct,8B,TruthfulQA,51.66,60.32
+https://proceedings.neurips.cc/paper_files/paper/2024/file/e099c1c9699814af0be873a175361713-Paper-Conference.pdf,SimPO,Llama-3 8B Instruct,8B,TruthfulQA,51.66,60.7
